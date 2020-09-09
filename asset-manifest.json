@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nebojsaj1726/cryptocurrency-prices/static/css/main.31591eb5.chunk.css",
+    "main.js": "/nebojsaj1726/cryptocurrency-prices/static/js/main.332f4ad7.chunk.js",
+    "main.js.map": "/nebojsaj1726/cryptocurrency-prices/static/js/main.332f4ad7.chunk.js.map",
+    "runtime-main.js": "/nebojsaj1726/cryptocurrency-prices/static/js/runtime-main.abf55cfd.js",
+    "runtime-main.js.map": "/nebojsaj1726/cryptocurrency-prices/static/js/runtime-main.abf55cfd.js.map",
+    "static/css/2.ba242066.chunk.css": "/nebojsaj1726/cryptocurrency-prices/static/css/2.ba242066.chunk.css",
+    "static/js/2.27a1a4b1.chunk.js": "/nebojsaj1726/cryptocurrency-prices/static/js/2.27a1a4b1.chunk.js",
+    "static/js/2.27a1a4b1.chunk.js.map": "/nebojsaj1726/cryptocurrency-prices/static/js/2.27a1a4b1.chunk.js.map",
+    "index.html": "/nebojsaj1726/cryptocurrency-prices/index.html",
+    "precache-manifest.c4c360e0eac40b5fc339cb004f842fe1.js": "/nebojsaj1726/cryptocurrency-prices/precache-manifest.c4c360e0eac40b5fc339cb004f842fe1.js",
+    "service-worker.js": "/nebojsaj1726/cryptocurrency-prices/service-worker.js",
+    "static/css/2.ba242066.chunk.css.map": "/nebojsaj1726/cryptocurrency-prices/static/css/2.ba242066.chunk.css.map",
+    "static/css/main.31591eb5.chunk.css.map": "/nebojsaj1726/cryptocurrency-prices/static/css/main.31591eb5.chunk.css.map",
+    "static/js/2.27a1a4b1.chunk.js.LICENSE.txt": "/nebojsaj1726/cryptocurrency-prices/static/js/2.27a1a4b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abf55cfd.js",
+    "static/css/2.ba242066.chunk.css",
+    "static/js/2.27a1a4b1.chunk.js",
+    "static/css/main.31591eb5.chunk.css",
+    "static/js/main.332f4ad7.chunk.js"
+  ]
+}
